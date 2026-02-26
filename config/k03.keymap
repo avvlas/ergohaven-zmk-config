@@ -38,10 +38,10 @@
 
         nav {
             bindings = <
-&kp F1          &kp F2  &kp F3               &kp F4         &kp F5  &kp F6                                                       &kp F7          &kp F8              &kp F9               &kp F10          &kp F11  &kp F12
-&trans          &trans  &kp LA(RIGHT_ARROW)  &kp N8         &kp N9  &kp PG_UP                                                    &kp DELETE      &kp PG_UP           &kp INSERT           &kp END          &trans   &trans
-&trans          &trans  &kp N4               &kp PAGE_DOWN  &kp N6  &kp PAGE_DOWN                                                &kp LEFT_ARROW  &kp DOWN_ARROW      &kp UP_ARROW         &kp RIGHT_ARROW  &trans   &trans
-&kp LEFT_SHIFT  &trans  &kp N1               &kp N2         &kp N3  &kp LA(LEFT_ARROW)  &kp PRINTSCREEN    &kp LS(LG(NUMBER_5))  &trans          &kp LC(LEFT_ARROW)  &kp LC(RIGHT_ARROW)  &trans           &trans   &kp RIGHT_SHIFT
+&kp F1          &kp F2  &kp F3               &kp F4         &kp F5  &kp F6                                                       &kp F7          &kp F8              &kp F9               &kp F10          &kp F11                   &kp F12
+&trans          &trans  &kp LA(RIGHT_ARROW)  &kp N8         &kp N9  &kp PG_UP                                                    &kp DELETE      &kp PG_UP           &kp INSERT           &kp END          &kp LS(LG(LEFT_BRACKET))  &kp LS(LG(RIGHT_BRACKET))
+&trans          &trans  &kp N4               &kp PAGE_DOWN  &kp N6  &kp PAGE_DOWN                                                &kp LEFT_ARROW  &kp DOWN_ARROW      &kp UP_ARROW         &kp RIGHT_ARROW  &trans                    &trans
+&kp LEFT_SHIFT  &trans  &kp N1               &kp N2         &kp N3  &kp LA(LEFT_ARROW)  &kp PRINTSCREEN    &kp LS(LG(NUMBER_5))  &trans          &kp LC(LEFT_ARROW)  &kp LC(RIGHT_ARROW)  &trans           &trans                    &kp RIGHT_SHIFT
                         &trans               &kp N0         &trans  &trans              &kp SPACE          &kp ENTER             &mo 3           &trans              &kp N0               &trans
             >;
 
